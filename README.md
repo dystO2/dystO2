@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @dystO2
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning Unity and Unreal engine
-- 💞️ I’m looking to collaborate on Game dev projects
+Hi, I'm Prayag Mini (CodeName Dyst02). I like code. I write code. I have a CodeName 😉. I do School Projects, Past time coding and super bad, never commented codes here.  Please never open my Twitter Account. 
 - 📫 How to reach me https://twitter.com/prayagSeriously
 
 <!---
